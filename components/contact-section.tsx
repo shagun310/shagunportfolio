@@ -156,10 +156,10 @@ export function ContactSection() {
                   <span className="font-medium">Email</span>
                 </div>
                 <Link
-                  href="mailto:elvoraagency.in@gmailcom"
+                  href="mailto:elvoraagency.in@gmail.com"
                   className="text-foreground transition-colors hover:text-primary"
                 >
-                  hello@elvoraagency.com
+                  elvoraagency.in@gmail.com
                 </Link>
               </div>
               <div className="rounded-xl border border-border bg-card/50 p-6">
