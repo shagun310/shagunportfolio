@@ -156,7 +156,7 @@ export function ContactSection() {
                   <span className="font-medium">Email</span>
                 </div>
                 <Link
-                  href="mailto:hello@elvoraagency.com"
+                  href="mailto:elvoraagency.in@gmailcom"
                   className="text-foreground transition-colors hover:text-primary"
                 >
                   hello@elvoraagency.com
